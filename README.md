@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I am Dedunu Dhananjaya. My blog can be found [here](https://dedu.nu/category/technology) and I share my travel photos [here](https://dedu.nu/category/travel)
+I am Dedunu Dhananjaya. My personal site can be found [here](https://x.dedu.nu/).
